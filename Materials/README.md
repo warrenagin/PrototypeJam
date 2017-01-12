@@ -7,6 +7,20 @@ Quick overview video of Kira API: http://info.kirasystems.com/kira-platform-api
 A quick overview video of Kira: https://vimeo.com/kirasystems/review/149054769/91d6b79772
 Kira API Swagger page: https://app.kirasystems.com/platform-api/v0/swagger/index.html
 
+Kira is pre-trained to identify and extract clauses in contracts. 
+
+In addition to the basics (Title, Party names, Date of agreement) the ones most relevant to cloud computing TOS are:
+1. Term and Renewal
+2. Pricing
+3. Confidentiality
+4. Exclusivity/Non-Compete
+5. Warranty
+6. Limitation of Liability 
+7. Termination for Convenience
+8. Indemnity
+9. Governing Law
+10. Arbitration
+
 Contact Warren Agin at wea@swiggartagin.com for information about obtaining a Kira username and password for team use during the Prototype Jam.
 
 sites.txt - this is a list of URLs for about thirty cloud providers' terms of service, which you can use in designing products.
