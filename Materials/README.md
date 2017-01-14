@@ -12,4 +12,15 @@ Contact Warren Agin at wea@swiggartagin.com for information about obtaining a Ki
 sites.txt - this is a list of URLs for about thirty cloud providers' terms of service, which you can use in designing products.
 sites unloader.py - this is a Python script that will extract the content of the TOS listed in sites.txt, strip out the header and footer content and html tags, and save the resulting text as a separate text file for each TOS. To use you will have to edit the location for the sites.txt file on your computer. Make sure the sites.txt file has the proper format: a line for the name of the company, a line for the URL, and the word "end" on the last line. The script will work on html pages only.
 
+Want to learn more about SaaS and Cloud Computing contracts before the event? Read these article by Cyberspace Law Committee and Legal Analytics Working Group member Lisa Lifshitz:
+
+http://www.canadianlawyermag.com/5050/The-IT-Girl-Check-your-own-house.html
+http://www.canadianlawyermag.com/5097/Licensing-blues.html
+http://www.canadianlawyermag.com/5343/What-do-cloud-vendors-want-pt.-1.html
+http://www.canadianlawyermag.com/5394/What-do-cloud-vendors-want-part-2.html
+http://www.canadianlawyermag.com/5825/Demystifying-cloud-service-levels.html
+http://www.canadianlawyermag.com/5794/Negotiating-the-successful-exit.html
+http://www.canadianlawyermag.com/5601/Why-tech-deals-fail.html
+http://www.canadianlawyermag.com/6222/Avoiding-the-storm-clouds-with-good-cloud-computing-policies.html
+
 We also include a law review article on comparative analysis of cloud computing terms of service, for those not familiar with the legal area.
